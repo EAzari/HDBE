@@ -2,7 +2,7 @@
 
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
 
-* 1955, Dynamic System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
+* 1955, System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
 
 * 1958, MIT Computation Center, DYNAMO (DYNAmic MOdels) [[Link](https://en.wikipedia.org/wiki/DYNAMO_(programming_language))]
 
