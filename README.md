@@ -32,6 +32,9 @@
 
 * 1988, Paul Teicholz, Four-Dimensional
 
+* 1989, Per Sahlin and Edward F. Sowell, A neutral format for building simulation
+models[[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
+ 
 * 1991, Microsoft, Visual Basic [[Link](https://en.wikipedia.org/wiki/Visual_Basic)]
 
 * 1991, Visual Programming Language (VPL) [[Link](https://en.wikipedia.org/wiki/Visual_programming_language)]
@@ -47,6 +50,8 @@
 * 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
+
+* 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
 * 1998, Gary William Flake, The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation [[Link](https://mitpress.mit.edu/books/computational-beauty-nature)]
 
