@@ -33,7 +33,7 @@
 * 1988, Paul Teicholz, Four-Dimensional
 
 * 1989, Per Sahlin and Edward F. Sowell, A neutral format for building simulation
-models[[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
+models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
  
 * 1991, Microsoft, Visual Basic [[Link](https://en.wikipedia.org/wiki/Visual_Basic)]
 
