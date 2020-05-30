@@ -73,8 +73,6 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 2007, David Rutten, Grasshopper 3D [[Link](https://en.wikipedia.org/wiki/Grasshopper_3D)]
 
-* 2007, Bill East, Construction Operations Building Information Exchange (COBie) [[Link](https://en.wikipedia.org/wiki/COBie)]
-
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
 
 * 2012, Autodesk, Dynamo BIM [[Link](https://dynamobim.org/)]
