@@ -47,7 +47,7 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1991-2011, Celestino Soddu, papers on Generative Design [[Link](http://www.generativedesign.com/papers.html)]
 
-* 1991, Generative design [[Link](https://en.wikipedia.org/wiki/Generative_design)]
+* 1991, Generative Design [[Link](https://en.wikipedia.org/wiki/Generative_design)]
 
 * 1993, Non-Uniform Rational Basis-Spline (NURBS) [[Link](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)]
 
