@@ -22,7 +22,7 @@
 
 * 1979, Aart Bijl, Integrated CAAD systems (EdCAAD) & HUMAN KNOWLEDGE: Al & CAD [[Link](http://www.iaarc.org/publications/fulltext/Human_knowledge_AI_&_CAD.PDF)]
 
-* 1980′s, Graphic Data System (GDS) [[Link](https://en.wikipedia.org/wiki/GDSII)], Cedar (Cedar DBMS), Sonata [[Link](https://en.wikipedia.org/wiki/Sonata_(building_design_software))] and Reflex [[Link](https://en.wikipedia.org/wiki/Reflex_(building_design_software))]
+* 1980′s, Digital Media (Babbage engines) [[Link](https://en.wikipedia.org/wiki/Digital_media)], Graphic Data System (GDS) [[Link](https://en.wikipedia.org/wiki/GDSII)], Cedar (Cedar DBMS), Sonata [[Link](https://en.wikipedia.org/wiki/Sonata_(building_design_software))] and Reflex [[Link](https://en.wikipedia.org/wiki/Reflex_(building_design_software))]
 
 * 1980, Robert McNeel & Associates, Rhinoceros 3D [[Link](https://en.wikipedia.org/wiki/Rhinoceros_3D)]
 
@@ -55,6 +55,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
 
+* 1997, Bernard Tschumi, Paperless studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
+
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
@@ -66,6 +68,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2000, Leonid Raiz and Gábor Bojár, Revit [[Link](https://en.wikipedia.org/wiki/Autodesk_Revit)]
 
 * 2001, John Maeda, Design by Numbers [[Link](https://mitpress.mit.edu/books/design-numbers)]
+
+* 2002, Digital Age [[Link](https://en.wikipedia.org/wiki/Information_Age)]
 
 * 2003, Bentley Systems, Generative Components (GC) [[Link](https://en.wikipedia.org/wiki/GenerativeComponents)]
 
