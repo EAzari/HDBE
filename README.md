@@ -1,5 +1,11 @@
 # History of the Digital Built Environment - HDBE
 
+* 780-850, Muhammad ibn Musa al-Khwarizmi, Algorithm [[Link](https://en.wikipedia.org/wiki/Algorithm)]
+
+* 1598-1680, Gian Lorenzo Bernini, Parametric Equation in Arcitecture
+
+* 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
+
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
 
 * 1955, System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
@@ -8,7 +14,7 @@
 
 * 1962, Douglas C. Engelbart, Augmenting Human Intellect [[Link](https://ia800601.us.archive.org/35/items/1962-engelbart-AHI-framework/1962-engelbart-AHI-framework-report.pdf)]
 
-* 1963, Ivan Sutherland, Sketchpad (Robot Draftsman), Computer Graphics [[Link](https://en.wikipedia.org/wiki/Sketchpad)]
+* 1963, Ivan Sutherland, Sketchpad (Robot Draftsman), Computer Graphics [[Link](https://en.wikipedia.org/wiki/Sketchpad)] and Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
 * 1963, Solid Modeling [[Link](https://en.wikipedia.org/wiki/Solid_modeling)]
 
@@ -84,6 +90,13 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
 
 * 2012, Autodesk, Dynamo BIM [[Link](https://dynamobim.org/)]
+
+----
+
+TO-DO:
+Algorithmic design?
+Computational Design?
+Some other tools
 
 
 ### References
