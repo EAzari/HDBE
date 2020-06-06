@@ -8,6 +8,8 @@
 
 * 1962, Douglas C. Engelbart, Augmenting Human Intellect [[Link](https://ia800601.us.archive.org/35/items/1962-engelbart-AHI-framework/1962-engelbart-AHI-framework-report.pdf)]
 
+* 1963, Ivan Sutherland, Sketchpad (Robot Draftsman), Computer Graphics [[Link](https://en.wikipedia.org/wiki/Sketchpad)]
+
 * 1963, Solid Modeling [[Link](https://en.wikipedia.org/wiki/Solid_modeling)]
 
 * 1970s and 1980s, Constructive Solid Geometry (CSG) [[Link](https://en.wikipedia.org/wiki/Constructive_solid_geometry)] and Boundary Representation (BRep) [[Link](https://en.wikipedia.org/wiki/Boundary_representation)]
