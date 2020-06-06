@@ -61,6 +61,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
 
+* 1998, Neil Gershenfeld, How to Make (almost) Anything
+
 * 1998, Gary William Flake, The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation [[Link](https://mitpress.mit.edu/books/computational-beauty-nature)]
 
 * 2000, Brad Schell and Joe Esch, SketchUp [[Link](https://en.wikipedia.org/wiki/SketchUp)]
