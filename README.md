@@ -55,7 +55,7 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
 
-* 1997, Bernard Tschumi, Paperless studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
+* 1997 (1992?), Bernard Tschumi, Paperless studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
 
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
