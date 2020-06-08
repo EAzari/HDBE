@@ -101,7 +101,11 @@ TO-DO:
 Algorithmic design?
 Computational Design?
 Some other tools
-
+3D Printig & Additive Manufacturing
+Project Management and Product Management, like lean
+DfMA
+Robotics
+...
 
 ### References
 [1] https://www.archdaily.com/302490/a-brief-history-of-bim
