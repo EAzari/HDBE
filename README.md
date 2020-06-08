@@ -10,6 +10,8 @@
 
 * 1955, System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
 
+* 1958, John McCarthy, Lisp [[Link](https://en.wikipedia.org/wiki/Lisp_(programming_language))]
+
 * 1958, MIT Computation Center, DYNAMO (DYNAmic MOdels) [[Link](https://en.wikipedia.org/wiki/DYNAMO_(programming_language))]
 
 * 1962, Douglas C. Engelbart, Augmenting Human Intellect [[Link](https://ia800601.us.archive.org/35/items/1962-engelbart-AHI-framework/1962-engelbart-AHI-framework-report.pdf)]
