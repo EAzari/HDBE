@@ -28,9 +28,9 @@
 
 * 1974, Charles Eastman, Building Description System (BDS) [[Link](https://files.eric.ed.gov/fulltext/ED113833.pdf)]
 
-* 1977, Dassault Group, CATIA [[Link](vhttps://en.wikipedia.org/wiki/CATIA)]
-
 * 1977, Charles Eastman, GLIDE (Graphical Language for Interactive Design) [[Link](https://www.researchgate.net/publication/234805111_GLIDE_a_language_for_design_information_systems)]
+
+* 1977, Dassault Group, CATIA [[Link](https://en.wikipedia.org/wiki/CATIA)]
 
 * 1977, AutoCAD (Interact CAD) [[Link](https://en.wikipedia.org/wiki/AutoCAD)]
 
