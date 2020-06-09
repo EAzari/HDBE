@@ -28,7 +28,11 @@
 
 * 1974, Charles Eastman, Building Description System (BDS) [[Link](https://files.eric.ed.gov/fulltext/ED113833.pdf)]
 
+* 1977, Dassault Group, CATIA [[Link](vhttps://en.wikipedia.org/wiki/CATIA)]
+
 * 1977, Charles Eastman, GLIDE (Graphical Language for Interactive Design) [[Link](https://www.researchgate.net/publication/234805111_GLIDE_a_language_for_design_information_systems)]
+
+* 1977, AutoCAD (Interact CAD) [[Link](https://en.wikipedia.org/wiki/AutoCAD)]
 
 * 1979, Aart Bijl, Integrated CAAD systems (EdCAAD) & HUMAN KNOWLEDGE: Al & CAD [[Link](http://www.iaarc.org/publications/fulltext/Human_knowledge_AI_&_CAD.PDF)]
 
@@ -38,7 +42,11 @@
 
 * 1982, Gábor Bojár, ArchiCAD (Radar CH) [[Link](https://en.wikipedia.org/wiki/ArchiCAD)]
 
+* 1982, John Walker, Autodesk [[Link](https://en.wikipedia.org/wiki/Autodesk)]
+
 * 1984, Cleve Moler, John N. Little, and Steve Bangert, MATLAB [[Link](https://en.wikipedia.org/wiki/MATLAB)]
+
+* 1984, Keith A. Bentley and Barry J. Bentley, Bentley Systems [[Link](https://en.wikipedia.org/wiki/Bentley_Systems)]
 
 * 1986, RUCAPS software System [[Link](https://en.wikipedia.org/wiki/RUCAPS)]
 
