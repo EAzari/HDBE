@@ -109,7 +109,7 @@ TO-DO:
 Algorithmic design?
 Computational Design?
 Some other tools
-3D Printig & Additive Manufacturing
+3D Printig/Additive Manufacturing
 Project Management and Product Management, like lean
 DfMA
 Robotics
