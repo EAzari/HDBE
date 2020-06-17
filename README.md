@@ -70,6 +70,8 @@
 
 * 1988, Stephen Wolfram , Mathematica [[Link](https://en.wikipedia.org/wiki/Wolfram_Mathematica)]
 
+* 1988, Gary Yost, 3D Studio (3D Studio MAX) [[Link](https://en.wikipedia.org/wiki/Autodesk_3ds_Max)]
+
 * 1989, Per Sahlin and Edward F. Sowell, A neutral format for building simulation
 models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
  
@@ -89,7 +91,11 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1993, Lawrence Berkeley National Lab, Building Design Advisor (BDA) [[Link](https://buildings.lbl.gov/sites/default/files/38584.pdf)] [[Home](http://gaia.lbl.gov/BDA/)]
 
+* 1994, Ton Roosendaal, Blender [[Link](https://en.wikipedia.org/wiki/Blender_(software))]
+
 * 1994, Glenn Ballard, The Last Planner (Last Planner System (LPS)) [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
+
+* 1995, Tim Sweeney, Unreal Engine [[Link](https://en.wikipedia.org/wiki/Unreal_Engine)]
 
 * 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
 
@@ -98,6 +104,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
+
+* 1998, Alias Systems Corporation, Maya [[Link](https://en.wikipedia.org/wiki/Autodesk_Maya)]
 
 * 1998, Neil Gershenfeld, How to Make (almost) Anything
 
@@ -112,6 +120,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2002, Digital Age [[Link](https://en.wikipedia.org/wiki/Information_Age)]
 
 * 2003, Bentley Systems, Generative Components (GC) [[Link](https://en.wikipedia.org/wiki/GenerativeComponents)]
+
+* 2005, David Helgason, Unity [[Link](https://en.wikipedia.org/wiki/Unity_(game_engine))]
 
 * 2006, Gehry Technologies, Digital Project [[Link](https://en.wikipedia.org/wiki/Digital_Project)]
 
