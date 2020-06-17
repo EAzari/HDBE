@@ -6,19 +6,29 @@
 
 * 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
+* 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
+
+* 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
+
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
 
 * 1955, System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
 
+* 1957, the U.S. Navy, Work-Breakdown Structure (WBS) [[Link](https://en.wikipedia.org/wiki/Work_breakdown_structure)]
+
 * 1958, John McCarthy, Lisp [[Link](https://en.wikipedia.org/wiki/Lisp_(programming_language))]
 
 * 1958, MIT Computation Center, DYNAMO (DYNAmic MOdels) [[Link](https://en.wikipedia.org/wiki/DYNAMO_(programming_language))]
+
+* 1959, Morgan R. Walker and James E. Kelley Jr., critical path method (CPM), or critical path analysis (CPA) [[Link](https://en.wikipedia.org/wiki/Critical_path_method)]
 
 * 1962, Douglas C. Engelbart, Augmenting Human Intellect [[Link](https://ia800601.us.archive.org/35/items/1962-engelbart-AHI-framework/1962-engelbart-AHI-framework-report.pdf)]
 
 * 1963, Ivan Sutherland, Sketchpad (Robot Draftsman), Computer Graphics [[Link](https://en.wikipedia.org/wiki/Sketchpad)] and Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
 * 1963, Solid Modeling [[Link](https://en.wikipedia.org/wiki/Solid_modeling)]
+
+* 1967, United States Department of Defense (DOD), Earned value management (EVM) [[Link](https://en.wikipedia.org/wiki/Earned_value_management)]
 
 * 1970s and 1980s, Constructive Solid Geometry (CSG) [[Link](https://en.wikipedia.org/wiki/Constructive_solid_geometry)] and Boundary Representation (BRep) [[Link](https://en.wikipedia.org/wiki/Boundary_representation)]
 
@@ -29,6 +39,8 @@
 * 1974, Charles Eastman, Building Description System (BDS) [[Link](https://files.eric.ed.gov/fulltext/ED113833.pdf)]
 
 * 1977, Charles Eastman, GLIDE (Graphical Language for Interactive Design) [[Link](https://www.researchgate.net/publication/234805111_GLIDE_a_language_for_design_information_systems)]
+
+* 1977, Sakichi Toyoda, Kiichiro Toyoda, Taiichi Ohno, Just-in-time (JIT) Production [[Link](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)]
 
 * 1977, Dassault Group, CATIA [[Link](https://en.wikipedia.org/wiki/CATIA)]
 
@@ -52,6 +64,8 @@
 
 * 1986, David Betz, AutoLISP [[Link](https://en.wikipedia.org/wiki/AutoLISP)]
 
+* 1988, John Krafcik, Lean manufacturing (Lean production) [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
+
 * 1988, Paul Teicholz, Four-Dimensional
 
 * 1988, Stephen Wolfram , Mathematica [[Link](https://en.wikipedia.org/wiki/Wolfram_Mathematica)]
@@ -67,13 +81,19 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1991, Generative Design [[Link](https://en.wikipedia.org/wiki/Generative_design)]
 
+* 1992, Lauri Koskela, Application of the New Production Philosophy to Construction [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
+
 * 1993, Non-Uniform Rational Basis-Spline (NURBS) [[Link](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)]
+
+* 1993, International Group for Lean Construction, Lean Construction [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
 
 * 1993, Lawrence Berkeley National Lab, Building Design Advisor (BDA) [[Link](https://buildings.lbl.gov/sites/default/files/38584.pdf)] [[Home](http://gaia.lbl.gov/BDA/)]
 
+* 1994, Glenn Ballard, The Last Planner (Last Planner System (LPS)) [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
+
 * 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
 
-* 1997 (1992?), Bernard Tschumi, Paperless studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
+* 1997 (1992?), Bernard Tschumi, Paperless Studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
 
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
@@ -94,6 +114,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2003, Bentley Systems, Generative Components (GC) [[Link](https://en.wikipedia.org/wiki/GenerativeComponents)]
 
 * 2006, Gehry Technologies, Digital Project [[Link](https://en.wikipedia.org/wiki/Digital_Project)]
+
+* 2007, American Institute of Architects (AIA), Integrated project delivery (IPD) [[Link](https://en.wikipedia.org/wiki/Integrated_project_delivery)]
 
 * 2007, David Rutten, Grasshopper 3D [[Link](https://en.wikipedia.org/wiki/Grasshopper_3D)]
 
