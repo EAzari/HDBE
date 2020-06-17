@@ -64,6 +64,10 @@
 
 * 1986, David Betz, AutoLISP [[Link](https://en.wikipedia.org/wiki/AutoLISP)]
 
+* 1986, Henry W. Stoll, Design for Manufacture: An Overview [[Link](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/39/9/1356/395217/Design-for-Manufacture-An-Overview?redirectedFrom=fulltext)]
+
+* 1987, Geoffrey Boothroyd and Peter Dewhurst, Product Design for Assembly (DfA) [[Link](https://link.springer.com/article/10.1007/BF02601481)]
+
 * 1988, John Krafcik, Lean manufacturing (Lean production) [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
 
 * 1988, Paul Teicholz, Four-Dimensional
@@ -81,6 +85,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1991, Generative Design [[Link](https://en.wikipedia.org/wiki/Generative_design)]
 
+* 1992, Joseph Constance, DFMA: learning to design for manufacture and assembly [[Link](https://go.gale.com/ps/anonymous?id=GALE%7CA12317627&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00256501&p=AONE&sw=w)]
+
 * 1992, Lauri Koskela, Application of the New Production Philosophy to Construction [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
 
 * 1993, Non-Uniform Rational Basis-Spline (NURBS) [[Link](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)]
@@ -95,7 +101,9 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1995, Tim Sweeney, Unreal Engine [[Link](https://en.wikipedia.org/wiki/Unreal_Engine)]
 
-* 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)] 
+* 1995, Industry Foundation Classes (IFC) [[Link](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)] [[Home](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)]
+
+* 1995, Steven Ashley, Design for Manufacture (DfM), Cutting costs and time with DFMA [[Link](https://sandymunro.net/articles/Mechanical_Engineering_-_Cutting_Costs_And_Time_With_Dfma.pdf)]
 
 * 1997 (1992?), Bernard Tschumi, Paperless Studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
 
@@ -109,6 +117,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1998, Gary William Flake, The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation [[Link](https://mitpress.mit.edu/books/computational-beauty-nature)]
 
+* 1999, James Bralla, Design for Manufacturability Handbook [[Link](http://alvarestech.com/temp/capp/James%20Bralla%20-%20Design%20for%20Manufacturability%20Handbook%20%20-McGraw-Hill%20Professional%20(1998).pdf)]
+
 * 2000, Brad Schell and Joe Esch, SketchUp [[Link](https://en.wikipedia.org/wiki/SketchUp)]
 
 * 2000, Leonid Raiz and Gábor Bojár, Revit [[Link](https://en.wikipedia.org/wiki/Autodesk_Revit)]
@@ -120,6 +130,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2003, Bentley Systems, Generative Components (GC) [[Link](https://en.wikipedia.org/wiki/GenerativeComponents)]
 
 * 2005, David Helgason, Unity [[Link](https://en.wikipedia.org/wiki/Unity_(game_engine))]
+
+* 2005, Geoffrey Boothroyd, Assembly Automation and Product Design [[Link](https://www.taylorfrancis.com/books/9780429121258)]
 
 * 2006, Gehry Technologies, Digital Project [[Link](https://en.wikipedia.org/wiki/Digital_Project)]
 
