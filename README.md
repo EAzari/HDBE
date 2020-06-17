@@ -1,4 +1,4 @@
-# History of the Digital Built Environment - HDBE
+# History of Digital Built Environment - HDBE
 
 * 780-850, Muhammad ibn Musa al-Khwarizmi, Algorithm [[Link](https://en.wikipedia.org/wiki/Algorithm)]
 
@@ -20,7 +20,7 @@
 
 * 1958, MIT Computation Center, DYNAMO (DYNAmic MOdels) [[Link](https://en.wikipedia.org/wiki/DYNAMO_(programming_language))]
 
-* 1959, Morgan R. Walker and James E. Kelley Jr., critical path method (CPM), or critical path analysis (CPA) [[Link](https://en.wikipedia.org/wiki/Critical_path_method)]
+* 1959, Morgan R. Walker and James E. Kelley Jr., Critical Path Method (CPM), or Critical Path Analysis (CPA) [[Link](https://en.wikipedia.org/wiki/Critical_path_method)]
 
 * 1962, Douglas C. Engelbart, Augmenting Human Intellect [[Link](https://ia800601.us.archive.org/35/items/1962-engelbart-AHI-framework/1962-engelbart-AHI-framework-report.pdf)]
 
@@ -28,7 +28,7 @@
 
 * 1963, Solid Modeling [[Link](https://en.wikipedia.org/wiki/Solid_modeling)]
 
-* 1967, United States Department of Defense (DOD), Earned value management (EVM) [[Link](https://en.wikipedia.org/wiki/Earned_value_management)]
+* 1967, United States Department of Defense (DOD), Earned Value Management (EVM) [[Link](https://en.wikipedia.org/wiki/Earned_value_management)]
 
 * 1970s and 1980s, Constructive Solid Geometry (CSG) [[Link](https://en.wikipedia.org/wiki/Constructive_solid_geometry)] and Boundary Representation (BRep) [[Link](https://en.wikipedia.org/wiki/Boundary_representation)]
 
@@ -40,7 +40,7 @@
 
 * 1977, Charles Eastman, GLIDE (Graphical Language for Interactive Design) [[Link](https://www.researchgate.net/publication/234805111_GLIDE_a_language_for_design_information_systems)]
 
-* 1977, Sakichi Toyoda, Kiichiro Toyoda, Taiichi Ohno, Just-in-time (JIT) Production [[Link](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)]
+* 1977, Sakichi Toyoda, Kiichiro Toyoda, Taiichi Ohno, Just-In-Time (JIT) Production [[Link](https://en.wikipedia.org/wiki/Just-in-time_manufacturing)]
 
 * 1977, Dassault Group, CATIA [[Link](https://en.wikipedia.org/wiki/CATIA)]
 
@@ -48,7 +48,7 @@
 
 * 1979, Aart Bijl, Integrated CAAD systems (EdCAAD) & HUMAN KNOWLEDGE: Al & CAD [[Link](http://www.iaarc.org/publications/fulltext/Human_knowledge_AI_&_CAD.PDF)]
 
-* 1980′s, Digital Media (Babbage engines) [[Link](https://en.wikipedia.org/wiki/Digital_media)], Graphic Data System (GDS) [[Link](https://en.wikipedia.org/wiki/GDSII)], Cedar (Cedar DBMS), Sonata [[Link](https://en.wikipedia.org/wiki/Sonata_(building_design_software))] and Reflex [[Link](https://en.wikipedia.org/wiki/Reflex_(building_design_software))]
+* 1980s, Digital Media (Babbage engines) [[Link](https://en.wikipedia.org/wiki/Digital_media)], Graphic Data System (GDS) [[Link](https://en.wikipedia.org/wiki/GDSII)], Cedar (Cedar DBMS), Sonata [[Link](https://en.wikipedia.org/wiki/Sonata_(building_design_software))] and Reflex [[Link](https://en.wikipedia.org/wiki/Reflex_(building_design_software))]
 
 * 1980, Robert McNeel & Associates, Rhinoceros 3D [[Link](https://en.wikipedia.org/wiki/Rhinoceros_3D)]
 
@@ -75,9 +75,7 @@
 * 1989, Per Sahlin and Edward F. Sowell, A neutral format for building simulation
 models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
  
-* 1991, Microsoft, Visual Basic [[Link](https://en.wikipedia.org/wiki/Visual_Basic)]
-
-* 1991, Visual Programming Language (VPL) [[Link](https://en.wikipedia.org/wiki/Visual_programming_language)]
+* 1991, Microsoft, Visual Basic [[Link](https://en.wikipedia.org/wiki/Visual_Basic)], Visual Programming Language (VPL) [[Link](https://en.wikipedia.org/wiki/Visual_programming_language)]
 
 * 1991-2011, Celestino Soddu, papers on Generative Design [[Link](http://www.generativedesign.com/papers.html)]
 
@@ -125,7 +123,7 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 2006, Gehry Technologies, Digital Project [[Link](https://en.wikipedia.org/wiki/Digital_Project)]
 
-* 2007, American Institute of Architects (AIA), Integrated project delivery (IPD) [[Link](https://en.wikipedia.org/wiki/Integrated_project_delivery)]
+* 2007, American Institute of Architects (AIA), Integrated Project Delivery (IPD) [[Link](https://en.wikipedia.org/wiki/Integrated_project_delivery)]
 
 * 2007, David Rutten, Grasshopper 3D [[Link](https://en.wikipedia.org/wiki/Grasshopper_3D)]
 
