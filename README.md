@@ -46,7 +46,7 @@
 
 * 1977, Dassault Group, CATIA [[Link](https://en.wikipedia.org/wiki/CATIA)]
 
-* 1977, AutoCAD (Interact CAD) [[Link](https://en.wikipedia.org/wiki/AutoCAD)]
+* 1977, Michael Riddle, AutoCAD (Interact CAD) [[Link](https://en.wikipedia.org/wiki/AutoCAD)]
 
 * 1979, Aart Bijl, Integrated CAAD systems (EdCAAD) & HUMAN KNOWLEDGE: Al & CAD [[Link](http://www.iaarc.org/publications/fulltext/Human_knowledge_AI_&_CAD.PDF)]
 
