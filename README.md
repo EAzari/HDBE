@@ -10,6 +10,8 @@
 
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
+* 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)]
+
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
 
 * 1955, System Dynamics [[Link](https://en.wikipedia.org/wiki/System_dynamics)]
@@ -68,6 +70,8 @@
 
 * 1987, Geoffrey Boothroyd and Peter Dewhurst, Product Design for Assembly (DfA) [[Link](https://link.springer.com/article/10.1007/BF02601481)]
 
+* 1988-1989, Robert Dvorak, Designing in the CAD Studio [[Link](http://papers.cumincad.org/cgi-bin/works/Search?search=Dvorak)], CAD Tools for Systems Theory and Bottom Up Design [[Link](http://papers.cumincad.org/cgi-bin/works/Search?search=Dvorak)]
+
 * 1988, John Krafcik, Lean manufacturing (Lean production) [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
 
 * 1988, Paul Teicholz, Four-Dimensional
@@ -105,7 +109,7 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1995, Steven Ashley, Design for Manufacture (DfM), Cutting costs and time with DFMA [[Link](https://sandymunro.net/articles/Mechanical_Engineering_-_Cutting_Costs_And_Time_With_Dfma.pdf)]
 
-* 1997 (1992?), Bernard Tschumi, Paperless Studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) 
+* 1997 (1992?), Bernard Tschumi, Paperless Studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) [[Link](http://cumincad.scix.net/data/works/att/679c.content.pdf)]
 
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
