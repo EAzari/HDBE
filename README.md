@@ -10,7 +10,7 @@
 
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
-* 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)]
+* 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)], Project Management (PM) [[Link](https://en.wikipedia.org/wiki/Timeline_of_project_management)]
 
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
 
@@ -115,6 +115,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
 
+* 1997, Eliyahu M. Goldratt, Critical Chain, Critical chain project management (CCPM) [[Link](https://en.wikipedia.org/wiki/Critical_chain_project_management)]
+
 * 1998, Alias Systems Corporation, Maya [[Link](https://en.wikipedia.org/wiki/Autodesk_Maya)]
 
 * 1998, Neil Gershenfeld, How to Make (almost) Anything
@@ -144,6 +146,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2007, David Rutten, Grasshopper 3D [[Link](https://en.wikipedia.org/wiki/Grasshopper_3D)]
 
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
+
+* 2009, John Kunz & Martin Fischer, Virtual Design and Construction: Themes, Case Studies and Implementation Suggestions [[Link](http://cife.stanford.edu/sites/default/files/WP097_0.pdf)], Virtual design and construction (VDC) [[Link](https://en.wikipedia.org/wiki/Virtual_design_and_construction)]
 
 * 2011, Robert Aish, DesignScript [[Link](https://link.springer.com/chapter/10.1007/978-3-642-23435-4_1)]
 
