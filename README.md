@@ -147,7 +147,7 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
 
-* 2009, John Kunz & Martin Fischer, Virtual Design and Construction: Themes, Case Studies and Implementation Suggestions [[Link](http://cife.stanford.edu/sites/default/files/WP097_0.pdf)], Virtual design and construction (VDC) [[Link](https://en.wikipedia.org/wiki/Virtual_design_and_construction)]
+* 2009, John Kunz & Martin Fischer, Virtual Design and Construction: Themes, Case Studies and Implementation Suggestions [[Link](http://cife.stanford.edu/sites/default/files/WP097_0.pdf)], Virtual Design and Construction (VDC) [[Link](https://en.wikipedia.org/wiki/Virtual_design_and_construction)]
 
 * 2011, Robert Aish, DesignScript [[Link](https://link.springer.com/chapter/10.1007/978-3-642-23435-4_1)]
 
