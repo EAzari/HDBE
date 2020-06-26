@@ -233,13 +233,13 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1995, Steven Ashley, Design for Manufacture (DfM), Cutting costs and time with DFMA [[Link](https://sandymunro.net/articles/Mechanical_Engineering_-_Cutting_Costs_And_Time_With_Dfma.pdf)]
 
-* 1997 (1992?), Bernard Tschumi, Paperless Studio (Architecture, Planning and Preservation at Columbia University (GSAPP)) [[Link](http://cumincad.scix.net/data/works/att/679c.content.pdf)]
+* 1997, Bernard Tschumi, Paperless Studio [[Link](http://cumincad.scix.net/data/works/att/679c.content.pdf)]
 
 * 1997, Hilding Elmqvist, Modelica [[Link](https://en.wikipedia.org/wiki/Modelica)]
 
 * 1997, Taha Khedro and Paul Teicholz, The Federation of Collaborative Design Agents (FCDA) [[Link](https://pdfs.semanticscholar.org/1226/75ca77c28ff6faa4138e73e0fb5fc670adbe.pdf)]
 
-* 1997, Eliyahu M. Goldratt, Critical Chain, Critical chain project management (CCPM) [[Link](https://en.wikipedia.org/wiki/Critical_chain_project_management)]
+* 1997, Eliyahu M. Goldratt, Critical Chain, Critical Chain Project Management (CCPM) [[Link](https://en.wikipedia.org/wiki/Critical_chain_project_management)]
 
 * 1998, Alias Systems Corporation, Maya [[Link](https://en.wikipedia.org/wiki/Autodesk_Maya)]
 
