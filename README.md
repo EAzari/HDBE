@@ -12,6 +12,8 @@
 
 * 1945, Vannevar Bush, As We May Think [[Link](https://en.wikipedia.org/wiki/As_We_May_Think)]
 
+* 1946-1977, Personal computer [[Link](https://en.wikipedia.org/wiki/Personal_computer)]
+
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
 * 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)], Project Management (PM) [[Link](https://en.wikipedia.org/wiki/Timeline_of_project_management)]
@@ -69,6 +71,8 @@
 * 1967, United States Department of Defense (DOD), Earned Value Management (EVM) [[Link](https://en.wikipedia.org/wiki/Earned_value_management)]
 
 * 1968, Douglas Engelbart and William English, A Research Center for Augmenting Human Intellect
+
+* 1968, Douglas Engelbart, The Mother of All Demos [[Link](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)]
 
 * 1969, Marshall McLuhan, The Galaxy Reconfigured or the Plight of Mass Man in an Individualist Society (The Gutenberg Galaxy) [[Link](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)]
 
