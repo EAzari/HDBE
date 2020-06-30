@@ -16,6 +16,8 @@
 
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
+* 1948, Claude Shannon, Information Theory (A Mathematical Theory of Communication) [[Link](https://en.wikipedia.org/wiki/Information_theory)] [[Link](https://web.archive.org/web/19980715013250/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)] 
+
 * 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)], Project Management (PM) [[Link](https://en.wikipedia.org/wiki/Timeline_of_project_management)]
 
 * 1950, Alan Turing, Computing Machinery and Intelligence [[Link](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)]
@@ -79,6 +81,8 @@
 * 1970s and 1980s, Constructive Solid Geometry (CSG) [[Link](https://en.wikipedia.org/wiki/Constructive_solid_geometry)] and Boundary Representation (BRep) [[Link](https://en.wikipedia.org/wiki/Boundary_representation)]
 
 * 1970s, John T. Lyle, Regenerative Design [[Link](https://en.wikipedia.org/wiki/John_T._Lyle)]
+
+* 1970s-1980s, Building Information Modeling (BIM) [[Link](https://en.wikipedia.org/wiki/Building_information_modeling)]
 
 * 1970, Theodor H. Nelson, Nicholas Negroponte, and Les Levine, Software—Information Technology: Its New Meaning for Art [[Link](https://monoskop.org/Software_(exhibition))] [[Link](https://monoskop.org/images/3/31/Software_Information_Technology_Its_New_Meaning_for_Art_catalogue.pdf)]
 
@@ -148,9 +152,15 @@
 
 * 1984, Keith A. Bentley and Barry J. Bentley, Bentley Systems [[Link](https://en.wikipedia.org/wiki/Bentley_Systems)]
 
+* 1984, Bryan Lawson, Gable CAD (Gable 4D Series) [[Link](https://en.wikipedia.org/wiki/Gable_CAD)]
+
 * 1985, Donna Haraway, A Cyborg Manifesto [[Link](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto)]
 
 * 1985, Richard Stallman, The GNU Manifesto [[Link](https://en.wikipedia.org/wiki/GNU_Manifesto)]
+
+* 1985, Simon Ruffle, Architectural Design Exposed: From Computer-Aided Drawing to Computer-Aided Design [[Link](https://journals.sagepub.com/doi/abs/10.1068/b130385)]
+
+* 1986, Robert Aish, Building Modelling: The Key to Integrated Construction CAD [[Link](https://www.researchgate.net/publication/320347623_Building_modelling_the_key_to_integrated_construction_CAD)]
 
 * 1986, Terry Winograd and Fernando Flores, Using Computers: A Direction for Design (Understanding Computers and Cognition) [[Link](https://pdfs.semanticscholar.org/2189/1413b1b82e036a3efa85886178dd4a5685b3.pdf)]
 
@@ -201,6 +211,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1991, Microsoft, Visual Basic [[Link](https://en.wikipedia.org/wiki/Visual_Basic)], Visual Programming Language (VPL) [[Link](https://en.wikipedia.org/wiki/Visual_programming_language)]
 
+* 1991, Stuart Haber and W. Scott Stornetta, How to time-stamp a digital document [[Link](https://link.springer.com/article/10.1007/BF00196791)]
+
 * 1991-2011, Celestino Soddu, papers on Generative Design [[Link](http://www.generativedesign.com/papers.html)]
 
 * 1991, Generative Design [[Link](https://en.wikipedia.org/wiki/Generative_design)]
@@ -230,6 +242,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 1994, Ton Roosendaal, Blender [[Link](https://en.wikipedia.org/wiki/Blender_(software))]
 
 * 1994, Glenn Ballard, The Last Planner (Last Planner System (LPS)) [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
+
+* 1995, Information system (IS) [[Link](https://en.wikipedia.org/wiki/Information_system)]
 
 * 1995, Tim Sweeney, Unreal Engine [[Link](https://en.wikipedia.org/wiki/Unreal_Engine)]
 
@@ -272,6 +286,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2007, American Institute of Architects (AIA), Integrated Project Delivery (IPD) [[Link](https://en.wikipedia.org/wiki/Integrated_project_delivery)]
 
 * 2007, David Rutten, Grasshopper 3D [[Link](https://en.wikipedia.org/wiki/Grasshopper_3D)]
+
+* 2008, Satoshi Nakamoto, Blockchain [[Link](https://en.wikipedia.org/wiki/Blockchain)]
 
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
 
