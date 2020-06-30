@@ -90,6 +90,8 @@
 
 * 1970-1974, Theodor H. Nelson, Computer Lib / Dream Machines [[Link](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)]
 
+* 1971, Carl-Wilhelm Reinhold de Boor, De Boor's algorithm (Subroutine package for calculating with B-splines) [[Link](https://en.wikipedia.org/wiki/De_Boor%27s_algorithm)]
+
 * 1972, Isaac Nassi and Ben Shneiderman, Nassi–Shneiderman Diagram (NSD) [[Link](https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram)]
 
 * 1972, Jean Baudrillard, Requiem for the Media [[Link](https://mediosyhumanidades.files.wordpress.com/2014/08/requiem-for-the-media_baudrillard.pdf)]
