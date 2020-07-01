@@ -26,6 +26,8 @@
 
 * 1950, Alan Turing, Computing Machinery and Intelligence [[Link](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)]
 
+* 1952, Grace Hopper, Thee first computer Compiler [[Link](https://en.wikipedia.org/wiki/Grace_Hopper)]
+
 * 1954, Norbert Wiener, Men, Machines, and the World About [[Link](http://classes.design.ucla.edu/Winter11/199/wp-content/uploads/2011/01/NMR_wiener.pdf)]
 
 * 1955, R. G. Selfridge, Coding a General Purpose Digital Computer to Operate as a Differential Analyzer [[Link](https://pdfs.semanticscholar.org/3b38/d1758409a06556237825121e7d2f4b4e64d0.pdf)]
