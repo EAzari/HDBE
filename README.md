@@ -4,6 +4,10 @@
 
 * 1598-1680, Gian Lorenzo Bernini, Parametric Equation in Arcitecture
 
+* 1837, Charles Babbage, Analytical Engine [[Link](https://en.wikipedia.org/wiki/Analytical_Engine)]
+
+* 1843, Ada Lovelace, The first published algorithm ever specifically tailored for implementation on a computer [[Link](https://en.wikipedia.org/wiki/Ada_Lovelace)]
+
 * 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
 * 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
