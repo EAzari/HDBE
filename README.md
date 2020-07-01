@@ -257,6 +257,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1992, John M. Snyder, Generative Modeling for Computer Graphics and Cad: Symbolic Shape Design Using Interval Analysis [[Link](https://books.google.com/books/about/Generative_Modeling_for_Computer_Graphic.html?id=1aHiBQAAQBAJ&source=kp_book_description)]
 
+* 1992, Open Geospatial Consortium (OGC) [[Link](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium)]
+
 * 1993, Scott McCloud, Time Frames (Understanding Comics) [[Link](https://wam.fandom.com/wiki/McCloud,_%22Time_Frames%22)] [[Link](https://wamfall14.files.wordpress.com/2014/10/mccloud-ch4.pdf)]
 
 * 1993, Non-Uniform Rational Basis-Spline (NURBS) [[Link](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)]
@@ -276,6 +278,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 1994, Ton Roosendaal, Blender [[Link](https://en.wikipedia.org/wiki/Blender_(software))]
 
 * 1994, Glenn Ballard, The Last Planner (Last Planner System (LPS)) [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
+
+* 1994, BuildingSMART (The International Alliance for Interoperability (IAI)) [[Link](https://en.wikipedia.org/wiki/BuildingSMART)]
 
 * 1995, Information system (IS) [[Link](https://en.wikipedia.org/wiki/Information_system)]
 
@@ -338,6 +342,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2008, Satoshi Nakamoto, Blockchain [[Link](https://en.wikipedia.org/wiki/Blockchain)]
 
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
+
+* 2008, Open Geospatial Consortium (OGC), CityGML [[Link](https://en.wikipedia.org/wiki/CityGML)]
 
 * 2008, Pascal Mueller, CityEngine [[Link](https://en.wikipedia.org/wiki/CityEngine)]
 
