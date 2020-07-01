@@ -26,7 +26,7 @@
 
 * 1950, Alan Turing, Computing Machinery and Intelligence [[Link](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)]
 
-* 1952, Grace Hopper, Thee first computer Compiler [[Link](https://en.wikipedia.org/wiki/Grace_Hopper)]
+* 1952, Grace Hopper, The first computer Compiler [[Link](https://en.wikipedia.org/wiki/Grace_Hopper)]
 
 * 1954, Norbert Wiener, Men, Machines, and the World About [[Link](http://classes.design.ucla.edu/Winter11/199/wp-content/uploads/2011/01/NMR_wiener.pdf)]
 
