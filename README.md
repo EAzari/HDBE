@@ -4,11 +4,15 @@
 
 * 1598-1680, Gian Lorenzo Bernini, Parametric Equation in Arcitecture
 
+* 1832, Charles Picquet, The first known instances in which Spatial Analysis [[Link](https://en.wikipedia.org/wiki/Geographic_information_system)]
+
 * 1837, Charles Babbage, Analytical Engine [[Link](https://en.wikipedia.org/wiki/Analytical_Engine)]
 
 * 1843, Ada Lovelace, The first published algorithm ever specifically tailored for implementation on a computer [[Link](https://en.wikipedia.org/wiki/Ada_Lovelace)]
 
 * 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
+
+* 1879, Gottlob Frege, Begriffsschrift (concept-script) [[Link](https://en.wikipedia.org/wiki/Begriffsschrift)], Formal language [[Link](https://en.wikipedia.org/wiki/Formal_language)], Formal grammar [[Link](https://en.wikipedia.org/wiki/Formal_grammar)]
 
 * 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
 
@@ -46,6 +50,8 @@
 
 * 1960, Oulipo [[Link](https://en.wikipedia.org/wiki/Oulipo)] [[Extra](https://monoskop.org/images/a/a4/Motte_Warren_F_ed_Oulipo_A_Primer_of_Potential_Literature.pdf)]
 
+* 1960, Roger Tomlinson, Canada Geographic Information System (CGIS) [[Link](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System)]
+
 * 1961, Allan Kaprow, 'Happenings' in the New York Scene [[Link](http://theater.ua.ac.be/bih/pdf/1961-00-00_kaprow_happeningsnewyork.pdf)]
 
 * 1961, William S. Burroughs, The Cut Up Method of Brion Gysin (Cut-up technique) [[Link](https://en.wikipedia.org/wiki/Cut-up_technique)]
@@ -63,6 +69,8 @@
 * 1964, Roy Ascott, The Construction of Change [[Link](https://www.academia.edu/740569/The_construction_of_change)]
 
 * 1964, Marshall McLuhan, The Medium is the Message (Understanding Media: The Extensions of Man) [[Link](https://en.wikipedia.org/wiki/The_medium_is_the_message)]
+
+* 1964, Howard T. Fisher, Harvard Graduate School of Design (LCGSA 1965–1991), SYMAP, GRID, and ODYSSEY [[Link](https://en.wikipedia.org/wiki/Geographic_information_system)]
 
 * 1965, Theodor H. Nelson, Complex information processing: a file structure for the complex, the changing and the indeterminate [[Link](https://dl.acm.org/doi/10.1145/800197.806036)]
 
@@ -82,6 +90,14 @@
 
 * 1968, Douglas Engelbart, The Mother of All Demos [[Link](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)]
 
+* 1968, Roger Tomlinson, Geographic Information System (GIS) (A Geographic Information System for Regional Planning), [[Link](https://en.wikipedia.org/wiki/Geographic_information_system)] [[Link](http://gisandscience.files.wordpress.com/2012/08/1-a-gis-for-regional-planning_ed.pdf)]
+
+* 1968, Aristid Lindenmayer, L-system (Lindenmayer system) [[Link](https://en.wikipedia.org/wiki/L-system)]
+
+* 1969, Ian McHarg, Design with Nature [[Link](https://www.goodreads.com/book/show/260554.Design_With_Nature)]
+
+* 1969, Jack Dangermond and Laura Dangermond, Esri (Environmental Systems Research Institute) [[Link](https://en.wikipedia.org/wiki/Esri)]
+
 * 1969, Marshall McLuhan, The Galaxy Reconfigured or the Plight of Mass Man in an Individualist Society (The Gutenberg Galaxy) [[Link](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)]
 
 * 1970s and 1980s, Constructive Solid Geometry (CSG) [[Link](https://en.wikipedia.org/wiki/Constructive_solid_geometry)] and Boundary Representation (BRep) [[Link](https://en.wikipedia.org/wiki/Boundary_representation)]
@@ -97,6 +113,8 @@
 * 1970-1974, Theodor H. Nelson, Computer Lib / Dream Machines [[Link](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)]
 
 * 1971, Carl-Wilhelm Reinhold de Boor, De Boor's algorithm (Subroutine package for calculating with B-splines) [[Link](https://en.wikipedia.org/wiki/De_Boor%27s_algorithm)]
+
+* 1971, George Stiny and James Gips, Shape grammar (Shape grammars and the generative specification of painting and sculpture) [[Link](https://en.wikipedia.org/wiki/Shape_grammar)] [[Link](https://www.researchgate.net/publication/221329330_'Shape_Grammars_and_the_Generative_Specification_of_Painting_and_Sculpture')]
 
 * 1972, Isaac Nassi and Ben Shneiderman, Nassi–Shneiderman Diagram (NSD) [[Link](https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram)]
 
@@ -128,6 +146,8 @@
 
 * 1979, Aart Bijl, Integrated CAAD systems (EdCAAD) & HUMAN KNOWLEDGE: Al & CAD [[Link](http://www.iaarc.org/publications/fulltext/Human_knowledge_AI_&_CAD.PDF)]
 
+* 1979, the Federation of Rocky Mountain States, Map Overlay and Statistical System (MOSS) [[Link](https://en.wikipedia.org/wiki/Map_Overlay_and_Statistical_System)]
+
 * 1980s, Digital Media (Babbage engines) [[Link](https://en.wikipedia.org/wiki/Digital_media)], Graphic Data System (GDS) [[Link](https://en.wikipedia.org/wiki/GDSII)], Cedar (Cedar DBMS), Sonata [[Link](https://en.wikipedia.org/wiki/Sonata_(building_design_software))] and Reflex [[Link](https://en.wikipedia.org/wiki/Reflex_(building_design_software))]
 
 * 1980, Gilles Deleuze and Félix Guattari, A Thousand Plateaus: Capitalism and Schizophrenia [[Link](https://en.wikipedia.org/wiki/A_Thousand_Plateaus)]
@@ -149,6 +169,8 @@
 * 1982, Gábor Bojár, ArchiCAD (Radar CH) [[Link](https://en.wikipedia.org/wiki/ArchiCAD)]
 
 * 1982, John Walker, Autodesk [[Link](https://en.wikipedia.org/wiki/Autodesk)]
+
+* 1982, USA-CERL, Geographic Resources Analysis Support System (GRASS GIS) [[Link](https://en.wikipedia.org/wiki/GRASS_GIS)]
 
 * 1983, Ben Bagdikian, The Endless Chain (The Media Monopoly) [[Link](https://books.google.nl/books?id=x_2m4L4rWogC&pg=RA5-PA3&lpg=RA5-PA3&dq=The+Endless+Chain+(from+The+Media+Monopoly)&source=bl&ots=lSGFKXUgn1&sig=ACfU3U1bk47TpL9lJzrxgRmylPiIt1czlQ&hl=en&sa=X&ved=2ahUKEwjgq8uThp_qAhVQ3aQKHQP4CFsQ6AEwAXoECAsQAQ)]
 
@@ -183,6 +205,8 @@
 * 1986, David Betz, AutoLISP [[Link](https://en.wikipedia.org/wiki/AutoLISP)]
 
 * 1986, Henry W. Stoll, Design for Manufacture: An Overview [[Link](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/39/9/1356/395217/Design-for-Manufacture-An-Overview?redirectedFrom=fulltext)]
+
+* 1986, , MapInfo (Mapping Display and Analysis System (MIDAS)) [[Link](https://en.wikipedia.org/wiki/MapInfo_Professional)]
 
 * 1987, Lucy A. Suchman, Plans and Situated Actions [[Link](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/ISL-6_Plans_and_Situated_Actions.pdf)]
 
@@ -231,6 +255,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1992, Lauri Koskela, Application of the New Production Philosophy to Construction [[Link](https://en.wikipedia.org/wiki/Lean_construction)]
 
+* 1992, John M. Snyder, Generative Modeling for Computer Graphics and Cad: Symbolic Shape Design Using Interval Analysis [[Link](https://books.google.com/books/about/Generative_Modeling_for_Computer_Graphic.html?id=1aHiBQAAQBAJ&source=kp_book_description)]
+
 * 1993, Scott McCloud, Time Frames (Understanding Comics) [[Link](https://wam.fandom.com/wiki/McCloud,_%22Time_Frames%22)] [[Link](https://wamfall14.files.wordpress.com/2014/10/mccloud-ch4.pdf)]
 
 * 1993, Non-Uniform Rational Basis-Spline (NURBS) [[Link](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline)]
@@ -275,15 +301,29 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 
 * 1999, James Bralla, Design for Manufacturability Handbook [[Link](http://alvarestech.com/temp/capp/James%20Bralla%20-%20Design%20for%20Manufacturability%20Handbook%20%20-McGraw-Hill%20Professional%20(1998).pdf)]
 
+* 1999, Esri (Environmental Systems Research Institute), ArcGIS [[Link](https://en.wikipedia.org/wiki/ArcGIS)]
+
+* 2000, Jimmy Wales and Larry Sanger, Wikipedia (Nupedia) [[Link](https://en.wikipedia.org/wiki/Wikipedia)]
+
 * 2000, Brad Schell and Joe Esch, SketchUp [[Link](https://en.wikipedia.org/wiki/SketchUp)]
 
 * 2000, Leonid Raiz and Gábor Bojár, Revit [[Link](https://en.wikipedia.org/wiki/Autodesk_Revit)]
 
+* 2000, Open Source Geospatial Foundation, Geospatial Data Abstraction Library (GDAL) [[Link](https://en.wikipedia.org/wiki/GDAL)]
+
 * 2001, John Maeda, Design by Numbers [[Link](https://mitpress.mit.edu/books/design-numbers)]
+
+* 2001, Yoav Parish and Pascal Mueller, Procedural Modeling of Cities [[Link](https://github.com/felix11/OpenPCG/blob/master/literature/procedural_modeling_of_cities__siggraph2001.pdf)]
 
 * 2002, Digital Age [[Link](https://en.wikipedia.org/wiki/Information_Age)]
 
+* 2002, Gary Sherman, QGIS (Quantum GIS) [[Link](https://en.wikipedia.org/wiki/QGIS)]
+
 * 2003, Bentley Systems, Generative Components (GC) [[Link](https://en.wikipedia.org/wiki/GenerativeComponents)]
+
+* 2003, Lars and Jens Eilstrup Rasmussen, Google Maps [[Link](https://en.wikipedia.org/wiki/Google_Maps)]
+
+* 2004, Steve Coast, OpenStreetMap (OSM) [[Link](https://en.wikipedia.org/wiki/OpenStreetMap)]
 
 * 2005, David Helgason, Unity [[Link](https://en.wikipedia.org/wiki/Unity_(game_engine))]
 
@@ -298,6 +338,8 @@ models [[Link](http://www.ibpsa.org/proceedings/BS1989/BS89_147_154.pdf)]
 * 2008, Satoshi Nakamoto, Blockchain [[Link](https://en.wikipedia.org/wiki/Blockchain)]
 
 * 2008, Patrick Schumacher, Parametricism [[Link](https://pdfs.semanticscholar.org/9e53/d30b6dc461658455ba40a029bcd810da9a4b.pdf)]
+
+* 2008, Pascal Mueller, CityEngine [[Link](https://en.wikipedia.org/wiki/CityEngine)]
 
 * 2009, John Kunz & Martin Fischer, Virtual Design and Construction: Themes, Case Studies and Implementation Suggestions [[Link](http://cife.stanford.edu/sites/default/files/WP097_0.pdf)], Virtual Design and Construction (VDC) [[Link](https://en.wikipedia.org/wiki/Virtual_design_and_construction)]
 
