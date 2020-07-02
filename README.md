@@ -4,6 +4,8 @@
 
 * 1598-1680, Gian Lorenzo Bernini, Parametric Equation in Arcitecture
 
+* 1790-1980s-1990s, Self-organization [[Link](https://en.wikipedia.org/wiki/Self-organization)]
+
 * 1832, Charles Picquet, The first known instances in which Spatial Analysis [[Link](https://en.wikipedia.org/wiki/Geographic_information_system)]
 
 * 1837, Charles Babbage, Analytical Engine [[Link](https://en.wikipedia.org/wiki/Analytical_Engine)]
@@ -12,9 +14,13 @@
 
 * 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
+* 1868, James Clerk Maxwell, Feedback (On governors) [[Link](https://en.wikipedia.org/wiki/Feedback)] [[Link](https://www.jstor.org/stable/112510?seq=1#metadata_info_tab_contents)]
+
 * 1872, Karl Weierstrass, Fractal [[Link](https://en.wikipedia.org/wiki/Fractal)]
 
 * 1879, Gottlob Frege, Begriffsschrift (concept-script) [[Link](https://en.wikipedia.org/wiki/Begriffsschrift)], Formal language [[Link](https://en.wikipedia.org/wiki/Formal_language)], Formal grammar [[Link](https://en.wikipedia.org/wiki/Formal_grammar)]
+
+* 1890, Henri Poincaré, Chaos theory [[Link](https://en.wikipedia.org/wiki/Chaos_theory)]
 
 * 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
 
@@ -27,6 +33,8 @@
 * 1946-1977, Personal computer [[Link](https://en.wikipedia.org/wiki/Personal_computer)]
 
 * 1948, Stanislaw Ulam and John von Neumann, Cellular Automata (Cellular Automaton (CA)) [[Link](https://en.wikipedia.org/wiki/Cellular_automaton)], Automata theory [[Link](https://en.wikipedia.org/wiki/Automata_theory)]
+
+* 1948, Norbert Wiener, Cybernetics [[Link](https://en.wikipedia.org/wiki/Cybernetics)]
 
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
@@ -57,6 +65,8 @@
 * 1960, Oulipo [[Link](https://en.wikipedia.org/wiki/Oulipo)] [[Extra](https://monoskop.org/images/a/a4/Motte_Warren_F_ed_Oulipo_A_Primer_of_Potential_Literature.pdf)]
 
 * 1960, Roger Tomlinson, Canada Geographic Information System (CGIS) [[Link](https://en.wikipedia.org/wiki/Canada_Geographic_Information_System)]
+
+* 1961, Edward Lorenz, Butterfly effect [[Link](https://en.wikipedia.org/wiki/Butterfly_effect)]
 
 * 1961, Allan Kaprow, 'Happenings' in the New York Scene [[Link](http://theater.ua.ac.be/bih/pdf/1961-00-00_kaprow_happeningsnewyork.pdf)]
 
@@ -165,6 +175,8 @@
 * 1980, Richard A. Bolt, 'Put-That-There': Voice and Gesture at the Graphics Interface [[Link](https://dl.acm.org/doi/10.1145/965105.807503)]
 
 * 1980, Robert McNeel & Associates, Rhinoceros 3D [[Link](https://en.wikipedia.org/wiki/Rhinoceros_3D)]
+
+* 1981, Roy Rada, Evolutionary systems (Evolution and gradualness) [[Link](https://en.wikipedia.org/wiki/Evolutionary_systems)]
 
 * 1981, Paul Forunel, Computer and Writer: The Centre Pompidou Experiment [[Link](https://nickm.com/classes/the_word_made_digital/resources/12-oulipo-p.pdf)]
 
