@@ -12,15 +12,21 @@
 
 * 1852-1926, Antoni Gaudí, Analogue Parametric Design [[Link](https://en.wikipedia.org/wiki/Parametric_design)]
 
+* 1872, Karl Weierstrass, Fractal [[Link](https://en.wikipedia.org/wiki/Fractal)]
+
 * 1879, Gottlob Frege, Begriffsschrift (concept-script) [[Link](https://en.wikipedia.org/wiki/Begriffsschrift)], Formal language [[Link](https://en.wikipedia.org/wiki/Formal_language)], Formal grammar [[Link](https://en.wikipedia.org/wiki/Formal_grammar)]
 
 * 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
+
+* 1940, John von Neumann, Life as a creation (as a being or organism) [[Link](https://en.wikipedia.org/wiki/Conway)]
 
 * 1941, Jorge Luis Borges, The Garden of Forking Paths [[Link](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths)]
 
 * 1945, Vannevar Bush, As We May Think [[Link](https://en.wikipedia.org/wiki/As_We_May_Think)]
 
 * 1946-1977, Personal computer [[Link](https://en.wikipedia.org/wiki/Personal_computer)]
+
+* 1948, Stanislaw Ulam and John von Neumann, Cellular Automata (Cellular Automaton (CA)) [[Link](https://en.wikipedia.org/wiki/Cellular_automaton)], Automata theory [[Link](https://en.wikipedia.org/wiki/Automata_theory)]
 
 * 1948 and 1975, (Shiego Shingo), Taiichi Ohno and Eiji Toyoda, Toyota Production System (TPS) [[Link](https://en.wikipedia.org/wiki/Toyota_Production_System)], The Toyota Way [[Link](https://en.wikipedia.org/wiki/The_Toyota_Way)]
 
@@ -105,6 +111,8 @@
 * 1970s, John T. Lyle, Regenerative Design [[Link](https://en.wikipedia.org/wiki/John_T._Lyle)]
 
 * 1970s-1980s, Building Information Modeling (BIM) [[Link](https://en.wikipedia.org/wiki/Building_information_modeling)]
+
+* 1970, John Horton Conway, Game of Life [[Link](https://en.wikipedia.org/wiki/Conway)]
 
 * 1970, Theodor H. Nelson, Nicholas Negroponte, and Les Levine, Software—Information Technology: Its New Meaning for Art [[Link](https://monoskop.org/Software_(exhibition))] [[Link](https://monoskop.org/images/3/31/Software_Information_Technology_Its_New_Meaning_for_Art_catalogue.pdf)]
 
