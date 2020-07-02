@@ -8,6 +8,8 @@
 
 * 1832, Charles Picquet, The first known instances in which Spatial Analysis [[Link](https://en.wikipedia.org/wiki/Geographic_information_system)]
 
+* 1837, Charles Darwin, Darwin's evolutionary theory [[Link](https://en.wikipedia.org/wiki/Charles_Darwin)]
+
 * 1837, Charles Babbage, Analytical Engine [[Link](https://en.wikipedia.org/wiki/Analytical_Engine)]
 
 * 1843, Ada Lovelace, The first published algorithm ever specifically tailored for implementation on a computer [[Link](https://en.wikipedia.org/wiki/Ada_Lovelace)]
