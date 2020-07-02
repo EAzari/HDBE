@@ -18,7 +18,7 @@
 
 * 1930s, Fredrick Taylor and Henry Ford, value streams, efficiency (reduction of "waste"), continuous improvement and standardised products [[Link](https://en.wikipedia.org/wiki/Lean_manufacturing)]
 
-* 1940, John von Neumann, Life as a creation (as a being or organism) [[Link](https://en.wikipedia.org/wiki/Conway)]
+* 1940, John von Neumann, Life as a creation (as a being or organism) [[Link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)]
 
 * 1941, Jorge Luis Borges, The Garden of Forking Paths [[Link](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths)]
 
@@ -112,7 +112,7 @@
 
 * 1970s-1980s, Building Information Modeling (BIM) [[Link](https://en.wikipedia.org/wiki/Building_information_modeling)]
 
-* 1970, John Horton Conway, Game of Life [[Link](https://en.wikipedia.org/wiki/Conway)]
+* 1970, John Horton Conway, Game of Life [[Link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)]
 
 * 1970, Theodor H. Nelson, Nicholas Negroponte, and Les Levine, Software—Information Technology: Its New Meaning for Art [[Link](https://monoskop.org/Software_(exhibition))] [[Link](https://monoskop.org/images/3/31/Software_Information_Technology_Its_New_Meaning_for_Art_catalogue.pdf)]
 
