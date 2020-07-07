@@ -58,7 +58,7 @@
 
 * 1957, the U.S. Navy, Work-Breakdown Structure (WBS) [[Link](https://en.wikipedia.org/wiki/Work_breakdown_structure)]
 
-* 1958, Argumentation Theory, (Argumentation) [[Linl](https://en.wikipedia.org/wiki/Argumentation_theory)]
+* 1958, Argumentation Theory (Argumentation) [[Linl](https://en.wikipedia.org/wiki/Argumentation_theory)]
 
 * 1958, John McCarthy, Lisp [[Link](https://en.wikipedia.org/wiki/Lisp_(programming_language))]
 
