@@ -42,6 +42,8 @@
 
 * 1948, Claude Shannon, Information Theory (A Mathematical Theory of Communication) [[Link](https://en.wikipedia.org/wiki/Information_theory)] [[Link](https://web.archive.org/web/19980715013250/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)] 
 
+* 1950s, Cognitive revolution [[Link](https://en.wikipedia.org/wiki/Cognitive_revolution)], Cognitive science [[Link](https://en.wikipedia.org/wiki/Cognitive_science)]
+
 * 1950s, Computer Graphics (CG) [[Link](https://en.wikipedia.org/wiki/Computer_graphics)], Project Management (PM) [[Link](https://en.wikipedia.org/wiki/Timeline_of_project_management)]
 
 * 1950, Alan Turing, Computing Machinery and Intelligence [[Link](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)]
